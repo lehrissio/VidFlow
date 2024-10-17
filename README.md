@@ -10,6 +10,7 @@
 ## 🚀 Tecnologias
 * HTML e CSS
 * Java Script
+<br>
 
 <h3 align=center>Páginas completas do projeto</h3>
 <br>
