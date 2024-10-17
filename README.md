@@ -14,9 +14,14 @@
 <h3 align=center>Páginas completas do projeto</h3>
 <br>
 <div align="center">
-    <img align=left width="47%" src="https://github.com/user-attachments/assets/8cd60adc-fb82-48e8-8197-c29fa9bf523e">
-    <img align=left width="25%" src="https://github.com/user-attachments/assets/9f7f27dd-344b-4d8e-9cf6-276abb78ccaa">
-    <img width="15%" src="https://github.com/user-attachments/assets/2c7d160d-6377-44e9-94fe-1b824546d9d8">
+    <img src="https://github.com/user-attachments/assets/8cd60adc-fb82-48e8-8197-c29fa9bf523e">
+</div>
+<br>
+<br>
+<br>
+<div align="right">
+    <img align=left width="55%" src="https://github.com/user-attachments/assets/9f7f27dd-344b-4d8e-9cf6-276abb78ccaa">
+    <img width="35%" src="https://github.com/user-attachments/assets/2c7d160d-6377-44e9-94fe-1b824546d9d8">
 </div>
 
 <br>
